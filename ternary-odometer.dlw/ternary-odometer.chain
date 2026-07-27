@@ -2,8 +2,8 @@ ROOT0-DLW-CHAIN-v1
 index : 1036
 slug  : ternary-odometer
 seal  : 83566dd4a3c339d876debf2bea93181cb5a3ac83491b3a64b8de2c4ecc073025
-prev  : e78e92e3153d10c23c838dcca54755208207be99f8eb98d3373b89c054bfcea9
-link  : 22c5526fe2e1d2fdedfcde2e4573e40296863b31342aaf189bb11ae213d0c314
-head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
+prev  : e8735861bcdf252ca97c167b4cac0710b24e835d7518c67b40b9fec4be0a46f1
+link  : a86beeec4568c4b445b1ec98991b38bc25d35993244188de26ebd8fb60c63e45
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
